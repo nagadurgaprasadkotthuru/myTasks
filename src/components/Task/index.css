@@ -1,0 +1,23 @@
+.tag-element {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #131213;
+  padding: 10px 25px 10px 25px;
+}
+
+.task {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.tag {
+  background-color: #f3aa4e;
+  border-radius: 20px;
+  color: #1a171d;
+  font-family: 'Roboto';
+  padding: 6px 10px 6px 10px;
+  font-size: 14px;
+  font-weight: 500;
+}

@@ -1,0 +1,18 @@
+.tag-element {
+  list-style-type: none;
+}
+
+.tag-button {
+  background-color: transparent;
+  border: 1px solid #f3aa4e;
+  border-radius: 10px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding: 10px 20px 10px 20px;
+  cursor: pointer;
+  outline: none;
+}
+
+.active {
+  background-color: #f3aa4e;
+}
